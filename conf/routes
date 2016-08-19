@@ -1,0 +1,1 @@
+GET /greet/:name  controllers.TestController.greet(name: String)
